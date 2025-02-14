@@ -50,7 +50,7 @@
 }
 
 body {
-  background: var(--bg-color);
+  background: black;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -63,7 +63,7 @@ h1 {
   text-align: center;
   font-size: 60px;
   margin-bottom: 50px;
-  color: #444;
+  color: #ff477e;
 }
 
 .container {
